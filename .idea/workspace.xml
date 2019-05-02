@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/projeto_final/backend" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/sicredi-cognitive-vision-face-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/ceolin/sicredi-bureau-gateway/gateway-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/trab_2/backend" value="PREVIEW" />
+        <entry key="$USER_HOME$/trab_2/julius-backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../HACKATON/julius/backend/julius" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../swagger" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../swagger/springfox/springfox-spring-web" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/acpscryptography" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/arq/card-issuance-embossing-import" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/arq/legacy-transfer-integrator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/arq/platform-security-otp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/arq/sicredi-digital-authentication" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/arq/sicredi-digital-security-provider" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/arq/sicredi-digital-services-platform" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/arq/sicredi-digital-services-platform/consul-thin-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/arq/sicredi-digital-services-platform/grpc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/arq/sicredi-digital-user-status" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/card-extension-transactional" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/credit-collection-billing-rule" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/credit-collection-restrictives" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/devops/isadora" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/devops/sicredi-backoffice-documentos" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/devops/sicredi-cognitive" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/devops/sicredi-cognitive/sicredi-cognitive-classifier-updater" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/devops/sicredi-digital-image-rekognition" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/devops/springboot-jwt-ldap" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/eru" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/eru-buckets-manager" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/eru-permission-manager" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/formalistica/contracts" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/fraud-prevent-event-listener-login" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/insurance" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/legacy-account-registry" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/messi/sicredi-bureau-gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/micronaut/complete" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/migrating" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/plat-aws-permissions" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/products-backoffice-accounts" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/receiving-bank-credit" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/recuperacao_credito/recuperacao-bloqueio-recuperacao" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/richard/credit-collection-parametrization" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/richard/legacy-credit-collection-discount-enrichment" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/salary-account-portability-cip-mock" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/samuca/credit-collection-restrictives" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/sicredi-buckets-manager" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/sicredi-digital-document-manager" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/sicredi-digital-encerramento" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/sicredi-digital-services-platform/services-platform" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/sicredi-digital-signup-image-manager" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/sicredi-digital-user-status" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/sicredi-fraud-cognitive" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/sicredi-product-backoffice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/sicredi-salesforce-dataloader-aws" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/smaug-aws" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/smaug-front" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/smaug-operational" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/smaug-templates" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/transcoord-persistence" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../new_projects/platform-security-otp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../new_projects/sicredi-cognitive" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-1" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../PROJETOS/arq/platform-secret" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/formalistica/proposal" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/formalistica/proposal-control" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PROJETOS/teste/document-manager-alfresco-migration" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../parada/platform-secret" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
